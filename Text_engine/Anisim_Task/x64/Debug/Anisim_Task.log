@@ -1,5 +1,9 @@
-﻿  Anisim_Task.cpp
-C:\All2\programming\All items\C++\Anisimov_Tasks\3\Anisim_Task\Anisim_Task\Anisim_Task.cpp(171,21): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
-C:\All2\programming\All items\C++\Anisimov_Tasks\3\Anisim_Task\Anisim_Task\Anisim_Task.cpp(173,37): warning C4101: ex: неиспользованная локальная переменная
-C:\All2\programming\All items\C++\Anisimov_Tasks\3\Anisim_Task\Anisim_Task\Anisim_Task.cpp(201,33): warning C4101: ex: неиспользованная локальная переменная
-  Anisim_Task.vcxproj -> C:\All2\programming\All items\C++\Anisimov_Tasks\3\Anisim_Task\x64\Debug\Anisim_Task.exe
+﻿  game.cpp
+C:\All2\programming\Console_Text_Engine\Text_engine\Anisim_Task\game.cpp(251,25): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\All2\programming\Console_Text_Engine\Text_engine\Anisim_Task\game.cpp(253,41): warning C4101: ex: неиспользованная локальная переменная
+C:\All2\programming\Console_Text_Engine\Text_engine\Anisim_Task\game.cpp(274,33): warning C4101: ex: неиспользованная локальная переменная
+C:\All2\programming\Console_Text_Engine\Text_engine\Anisim_Task\game.cpp(295): warning C4715: Game::change_speed: значение возвращается не при всех путях выполнения
+C:\All2\programming\Console_Text_Engine\Text_engine\Anisim_Task\game.cpp(112): warning C4715: Action::Create_action: значение возвращается не при всех путях выполнения
+C:\All2\programming\Console_Text_Engine\Text_engine\Anisim_Task\game.cpp(48): warning C4172: возвращение адреса локальной или временной переменной : backpuck
+C:\All2\programming\Console_Text_Engine\Text_engine\Anisim_Task\game.cpp(125): warning C4715: Action::give_up_thing: значение возвращается не при всех путях выполнения
+  Anisim_Task.vcxproj -> C:\All2\programming\Console_Text_Engine\Text_engine\x64\Debug\Anisim_Task.exe
